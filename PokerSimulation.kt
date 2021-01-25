@@ -37,7 +37,7 @@ class PokerSimulation {
     private var numStraightFlush: Int = 0
     private var numRoyalFlush: Int = 0
 
-    private var numRuns: Int = 9 // var numRuns: Int = 0 (Zero) means the simulation runs ONCE
+    private var numRuns: Int = 999 // var numRuns: Int = 0 (Zero) means the simulation runs ONCE
 
     // RESULTS OF 100,000 SIMULATED HANDS:
     // high card: 3,445
